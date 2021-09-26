@@ -28,11 +28,11 @@ instagram_username: solver_hamin
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  안녕하세요. 문제 해결에 진심인 3년 차 핀테크 iOS Engineer 정하민입니다.
+  안녕하세요. 문제해결에 진심인 3년 차 핀테크 iOS Engineer 정하민입니다.
 
   엔지니어 생활을 하며 항상 생각하는 문장은 "해야 하는 것, 할 수 있는 것, 하고 싶은 것을 구분하자" 입니다. 이 문장은 다음 문장들로 생각을 이어지게 합니다.
-    - 지금 마주한 문제 해결이 조직의 목표에 부합하는지?
-    - 가장 빠르고 간결한 문제 해결 방법은 무엇인가?
+    - 지금 마주한 문제해결이 조직의 목표에 부합하는지?
+    - 가장 빠르고 간결한 문제해결 방법은 무엇인가?
     - 문제를 현재 나의 스킬로 우아하게 풀 수 있는가? 아니면 추가적인 학습이 필요한가?
   
   저는 이 문장들을 통해 **개인의 성장** + **팀과 조직의 상황에 부합하는 최적의 결과물**을 함께 만들어가는 엔지니어입니다.
