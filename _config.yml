@@ -28,16 +28,13 @@ instagram_username: solver_hamin
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  안녕하세요. 문제해결에 진심인 3년 차 핀테크 iOS Engineer 정하민입니다.
+  안녕하세요. 정하민입니다.
 
-  엔지니어 생활을 하며 항상 생각하는 문장은 "해야 하는 것, 할 수 있는 것, 하고 싶은 것을 구분하자" 입니다. 이 문장은 다음 문장들로 생각을 이어지게 합니다.
-    - 지금 마주한 문제해결이 조직의 목표에 부합하는지?
-    - 가장 빠르고 간결한 문제해결 방법은 무엇인가?
-    - 문제를 현재 나의 스킬로 우아하게 풀 수 있는가? 아니면 추가적인 학습이 필요한가?
-  
-  저는 이 문장들을 통해 **개인의 성장** + **팀과 조직의 상황에 부합하는 최적의 결과물**을 함께 만들어가는 엔지니어입니다.
-  
-  **학력 : 세종대학교 전자정보통신대학>디지털콘텐츠학과 최우수 졸업 (2013. 02 ~ 2019. 02)**
+  제가 현재 iOS 엔지니어로 활동하는 이유는 문제를 해결하는 스타트업 생태계에 참여할 수 있는 기회를 주기 때문입니다.
+  지금은 iOS 엔지니어링이라는 무기 하나를 들고있지만, 스타트업 생태계에서 경험을 쌓아가며 문제해결에 필요한 많은 무기를 얻고자합니다.
+  최근에는 iOS 엔지니어링과 회고 활동과 지라를 학습하며 팀의 성장과 프로세스 개선활동에 시간을 투자하고 있습니다.
+
+  제가 가장 좋아하는 문장은 "실수는 예방하는 것이 아니라 관리하는 것이며, 실수를 통한 학습에서 성장한다" 입니다.
 
 content:
   - title: Ability # Title for the section
@@ -63,7 +60,8 @@ content:
         title: 협업
         description: | # this will include new lines to allow paragraphs
           - 기본적인 Git Flow를 이해하고 있으며 필요한 동작을 찾고 적용할 수 있습니다.
-          - 모든 작업에 대해 문서를 만드는 것을 선호하며, Jira를 통해 문서 및 일정 관리를 할 수 있습니다.
+          - 모든 작업에 대해 문서를 만드는 것을 선호합니다.
+          - Jira를 통한 스프린트 일정 관리가 가능하며, 팀 회고를 리드한 경험을 가지고 있습니다.
           - Figma를 통한 디자인 협업에 능숙하며, 프로토타입을 위한 간단한 화면 디자인을 만든 경험이 있습니다.
   - title: Work Experience
     layout: list
