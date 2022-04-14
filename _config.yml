@@ -9,6 +9,7 @@ version: 2
 name: HA MIN JEONG (정하민)
 title: Software Engineer (iOS)
 email: solverjhm@gmail.com
+phone: 010-9465-9404 
 # email_title: Email (Email title override)
 
 # Dark Mode (true/false/never)
@@ -36,8 +37,7 @@ about_content: | # this will include new lines to allow paragraphs
   
   최근에는 iOS 엔지니어링과 [Scrum 프레임워크,지라를 학습](https://www.notion.so/devdmbhm/Scrum-eeabc3bff2b645d49d85b694adb5e355)하며 팀의 성장과 프로세스 개선에 시간을 투자하고 있습니다.
 
-  
-  최근 좋아하게된 문장은 **"실수는 예방하는 것이 아니라 관리하는 것이며, 실수를 통한 학습에서 성장한다"** 입니다.
+  최근 좋아하게된 문장은 **"실수는 예방하는 것이 아니라 관리하는 것이며, 실수를 통한 학습에서 성장한다"** 입니다. 
 
 content:
   - title: Ability # Title for the section
