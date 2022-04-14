@@ -12,10 +12,10 @@ email: solverjhm@gmail.com
 # email_title: Email (Email title override)
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: never
 
 # Social links
-github_username:  wjdgkals23
+github_username: wjdgkals23
 instagram_username: solver_hamin
 
 # Google Analytics and Tag Manager
@@ -26,7 +26,7 @@ instagram_username: solver_hamin
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/profile.png
+about_profile_image: 
 about_content: | # this will include new lines to allow paragraphs
   안녕하세요. 정하민입니다.
 
