@@ -13,7 +13,7 @@ phone: 010-9465-9404
 # email_title: Email (Email title override)
 
 # Dark Mode (true/false/never)
-darkmode: never
+darkmode: true
 
 # Social links
 github_username: wjdgkals23
@@ -29,43 +29,49 @@ instagram_username: solver_hamin
 # about_title: About Me (Use this to override about section title)
 about_profile_image: 
 about_content: | # this will include new lines to allow paragraphs
-  안녕하세요. 정하민입니다.
+  안녕하세요. Product Engineer 정하민입니다.
 
-  제가 현재 iOS 엔지니어로 활동하는 이유는 문제를 해결하는 스타트업 생태계에 참여할 수 있는 기회를 주기 때문입니다.
-  
-  지금은 iOS 엔지니어링이라는 무기 하나를 들고있지만, 스타트업 생태계에서 경험을 쌓아가며 문제해결에 필요한 많은 무기를 얻고자합니다.
-  
-  최근에는 iOS 엔지니어링과 [Scrum 프레임워크,지라를 학습](https://www.notion.so/devdmbhm/Scrum-eeabc3bff2b645d49d85b694adb5e355)하며 팀의 성장과 프로세스 개선에 시간을 투자하고 있습니다.
+  엔지니어링은 저에게 스타트업 생태계에서 다양한 사람들과 함께 문제해결의 기회를 준 고마운 도구입니다. 
 
-  최근 좋아하게된 문장은 **"실수는 예방하는 것이 아니라 관리하는 것이며, 실수를 통한 학습에서 성장한다"** 입니다. 
+  현재는 모바일 엔지니어링(iOS, Flutter)을 통해 다양한 분들과 문제 해결의 경험을 쌓아가고 있습니다.
+
+  문제 해결 역량을 키우기 위해서는 다양한 경험과 도구들이 필요로 합니다.
+
+  제가 해결하고 싶은 문제해결에 도움이 될 수 있다면, 엔지니어링 이외에도 도전하여 “어떤 문제가 찾아와도 두려워하지 않는 사람”이 되고자 합니다.
 
 content:
   - title: Ability # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: iOS
+        title: 성향
         description: | # this will include new lines to allow paragraphs
-          - UIKit과 AutoLayout에 대한 개념을 이해하고 있고 팀의 목적에 부합하는 화면을 구현할 수 있습니다.
-          - URLSession을 이해하고 있으며, 프로젝트에서는 Moya/Rxswift를 통해 Network를 편리하게 설정할 수 있습니다.
-          - Swift의 기본적인 이해와 Instrument/Xcode 도구를 통하여 Memory Leak을 예방 및 개선하며 협업을 위한 코드를 작성할 수 있습니다.
-          - MVVM을 다양한 방식으로 구현할 수 있으며 그중에서도 RxSwift를 통해 Input/Output을 명확하게 구분하는 코드를 작성할 수 있습니다.
-          - 코드에 대한 자신감을 위한 테스트 코드를 정의하고 작성할 수 있습니다.
-      - layout: left
-        title: iOS DevOps
-        description: | # this will include new lines to allow paragraphs
-          - Dependency Graph를 이해하고 있으며, Cocoapod / SPM 등을 통해 Dependency를 관리할 수 있습니다.
-          - xcconfig를 통해 간단하게 배포 관련 설정값을 관리할 수 있습니다.
-          - fastlane을 통해 iOS 개발 인증서 및 프로젝트 프로필을 관리할 수 있습니다.
-          - Jenkins Pipeline을 이용한 배포라인을 개편한 [경험](https://jhmdevdiary.tistory.com/30)을 가지고 있습니다.
-          - Apple의 EnterPrise 인증서를 적용한 경험이 있습니다.
+          - 학습과 병행하며 결과물을 만드는 상황에서 가장 많이 성장합니다.
+          - 실패에 개의치않으며, 다음을 생각합니다.
+          - 피드백 주기가 짧은 것을 좋아합니다.
+          - 개인의 선택과 집중을 위해 목표 관리 도구(Jira, Notion)를 활용합니다.
+          - 25분 업무, 5분 휴식의 형태로 업무를 수행합니다.
+          - 오피스에서 집중력이 더 높습니다.
+          - 조직에 목표가 없는 상황과 팀 목표에 도움되지 않는 업무 수행을 힘들어합니다.
+          - 논의 시 배경에 대한 설명이 부족한 경우가 있으며, 이를 위해 팀원들에게 설명한 내용 중 부족한 것이 없는지 지속적으로 확인합니다.
       - layout: left
         title: 협업
         description: | # this will include new lines to allow paragraphs
           - 기본적인 Git Flow를 이해하고 있으며 필요한 동작을 찾고 적용할 수 있습니다.
-          - 모든 작업에 대해 문서를 만드는 것을 선호합니다.
-          - Jira를 통한 스프린트 일정 관리가 가능하며, 팀 회고를 리드한 경험을 가지고 있습니다.
-          - Figma를 통한 디자인 협업에 능숙하며, 프로토타입을 위한 간단한 화면 디자인을 만든 경험이 있습니다.
+          - 팀의 선택과 집중을 위해 목표 관리 도구(Jira, Notion)를 활용합니다.
+          - 복수의 인원이 반복적으로 수행하는 작업은 문서화합니다.
+          - Figma를 통한 디자인 협업이 가능합니다.
+      - layout: left
+        title: Engineering > iOS
+        description: | # this will include new lines to allow paragraphs
+          - Swift의 기본적인 이해를 토대로 협업을 위한 코드를 작성할 수 있습니다.
+          - MVVM을 다양한 방식으로 구현할 수 있으며 Input/Output을 명확하게 구분하는 코드를 선호합니다.
+          - UIKit과 AutoLayout을 통해 목적에 부합하는 화면을 구현할 수 있습니다.
+          - Network를 설정할 수 있습니다.
+          - 테스트 코드를 정의하고 작성할 수 있습니다.
+          - Dependency Graph를 이해하고 있으며, Cocoapod / SPM 등을 통해 Dependency를 관리할 수 있습니다.
+          - xcconfig를 통해 간단하게 배포 관련 설정값을 관리할 수 있습니다.
+          - fastlane을 통해 iOS 개발 인증서 및 프로필을 관리, 자동화 배포를 설계할 수 있습니다.
   - title: Work Experience
     layout: list
     content:
@@ -75,24 +81,24 @@ content:
         sub_title: User Experience Strategy Team
         caption: iOS Engineer 2021.07 ~  
         description: | # this will include new lines to allow paragraphs
-          제품 VOC 및 고객의 데이터를 기반으로 도출한 제품 구성에 대한 가설을 검증하는 사용자 경험 전략 팀의 iOS Engineer로 활동하고 있습니다.
-          - [단독 어플리케이션 개편](https://www.instagram.com/p/CS84rfjL-5Z/?utm_medium=copy_link)
-          - 제품 배포전략 수립을 위한 앱 구조 개편설계
+          제품 구성에 대한 가설을 검증하며 고객 리텐션에 집중하는 사용자 경험 전략 팀의 iOS Engineer로 활동하는 중입니다.
+          - 조직 목표 달성 및 고객 리텐션 강화를 위한 어플리케이션 개편 수행
           - 투자 제품 기여 (청약 알림/가점 계산, 주식 평단가 공개 커뮤니티)
+          - 팀 스프린트 관리, 회고 문화 구성
       - layout: left
         sub_title: iOS Foundation
         caption: iOS Engineer 2021.04 ~ 2020.06
         description: | # this will include new lines to allow paragraphs
-          iOS Core 팀으로 제품 개발을 수행하는 iOS Engineer들의 효율성을 높였습니다.
+          iOS Core 팀으로 제품 개발을 수행에 필수적인 iOS 업데이트 대응과 배포개선을 수행했습니다.
           - iOS 14.5 보안 및 마케팅 대응설계
           - [Jenkins Distribution Job 코드화 개선](https://jhmdevdiary.tistory.com/30)
       - layout: left
         sub_title: Data Instrumentation Team
         caption: iOS Engineer 2021.01 ~ 2021.04
         description: | # this will include new lines to allow paragraphs
-          조직 내에서 고객의 데이터를 기반으로 제품 개발을 수행하며 A/B Testing 사용의 Best Practice를 만들어가는 팀의 iOS Engineer로 활약하였습니다.
-          - iOS 프로젝트 사내 A/B Testing 환경 개편설계
-          - A/B Testing 기반 제품 개발수행
+          데이터를 기반으로 제품 개발을 수행하는 팀의 iOS Engineer로 활약하였습니다.
+          - iOS 프로젝트 A/B Testing 환경 개편
+          - 테이터 기반 제품 개발수행
       - layout: left
         sub_title: iOS Foundation
         caption: iOS Engineer 2020.02 ~ 2020.12
@@ -116,9 +122,8 @@ content:
       - layout: left
         title: 잇다 멘토링 활동
         description: | 
-          목표를 가지고 있는 엔지니어와 협업하는 것은 환상적인 경험입니다!
+          목표를 가지고 있는 엔지니어와 협업하는 것을 선호합니다. 목표에 대한 중요성을 공유하며 더 많은 분들이 목표를 가진 엔지니어가 되기를 희망하며 멘토링을 하고 있습니다.
           
-          제가 시작할 때 가졌으면 좋았을 생각을 조금이라도 더 빨리 많은 분들에게 전달하는 것이 목표이며, 그로 인해 많은 예비 엔지니어 분들이 목표를 꿈꾸길 바라며 멘토링을 하고 있습니다.
           <a href="https://www.itdaa.net/mentors/122067">프로필</a>
       - layout: left
         title: 논문 활동
