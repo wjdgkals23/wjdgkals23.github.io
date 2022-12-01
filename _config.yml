@@ -35,7 +35,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   현재는 모바일 엔지니어링(iOS, Flutter)을 통해 다양한 분들과 문제 해결의 경험을 쌓아가고 있습니다.
 
-  문제 해결 역량을 키우기 위해서는 다양한 경험과 도구들이 필요로 합니다.
+  문제 해결 역량을 키우기 위해서는 다양한 경험과 도구들이 필요로 합니다. 현재는 모바일 엔지니어링에 치중되어있지만, 5년 안에는 어떠한 문제도 풀 수 있는 엔지니어가 되는 것을 목표로 하고 있습니다.
 
   팀과 함께 해결하고 싶은 문제해결에 도움이 될 수 있다면, 엔지니어링 이외의 영역에도 도전하여 “어떤 문제가 찾아와도 두려워하지 않는 사람”이 되고자 합니다.
 
@@ -74,7 +74,7 @@ content:
           - iOS > Cocoapod / SPM 등을 통해 Dependency를 관리할 수 있습니다.
           - iOS > xcconfig를 통해 간단하게 배포 관련 설정값을 관리할 수 있습니다.
           - iOS > fastlane을 통해 iOS 개발 인증서 및 프로필을 관리, 자동화 배포를 설계할 수 있습니다.
-          - Cross Platform > Flutter를 통해 [인터스타일](https://linktr.ee/interstyle) 하우스테이너 앱 플랫폼을 개발하고 있습니다.
+          - Cross Platform > Flutter를 통해 [인터스타일](https://linktr.ee/interstyle) 하우스테이너 앱 플랫폼(개발 중)을 개발하고 있습니다.
           - Cross Platform > [NativeScript-Vue.js](https://github.com/wjdgkals23/SMProject_2018)를 통한 크로스플랫폼 개발을 경험하였습니다.
           - Web > [Node.js, Vue.js](https://github.com/wjdgkals23/DenlTest)를 통한 서비스를 개발을 경험하였습니다.
   - title: Work Experience
@@ -87,8 +87,8 @@ content:
         caption: iOS Engineer 2021.07 ~  
         description: | # this will include new lines to allow paragraphs
           제품 구성에 대한 가설을 검증하며 고객 리텐션에 집중하는 사용자 경험 전략 팀의 iOS Engineer로 활동하는 중입니다.
-          - 조직 목표 달성 및 고객 리텐션 강화를 위한 어플리케이션 개편 수행
-          - 투자 제품 기여 (청약 알림/가점 계산, 주식 평단가 공개 커뮤니티)
+          - 조직 목표 달성 및 고객 리텐션 강화를 위한 어플리케이션 개편 수행 (탭 개편, 홈 추가, 전체 메뉴 추가 등)
+          - 투자 제품 기여 (청약 알림/가점 계산, 주식 평단가 공개 커뮤니티 등)
           - 팀 스프린트 관리, 회고 문화 구성
       - layout: left
         sub_title: iOS Foundation
