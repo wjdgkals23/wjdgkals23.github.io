@@ -82,9 +82,8 @@ content:
             - 요양보호사 구인/구직 플랫폼 [케어파트너](https://carepartner.kr) 서비스 구축 및 운영
             - 지도 기반 실시간 임장노트 [집줍](https://zipzoop.kr/) 서비스 구축 및 운영
             - [꽃집 이미지 기반 포트폴리오](https://flo-blanc.com) 서비스 구축 중 (Next 15, React 19 활용 / 다국어 지원 예정)
-          Mobile
-          - iOS [뱅크샐러드](https://apps.apple.com/kr/app/%EB%B1%85%ED%81%AC%EC%83%90%EB%9F%AC%EB%93%9C/id1195804784)
           - Flutter [케어파트너](https://play.google.com/store/apps/details?id=com.bosalpim.carepartnerapp&hl=ko&pli=1)
+          - iOS [뱅크샐러드](https://apps.apple.com/kr/app/%EB%B1%85%ED%81%AC%EC%83%90%EB%9F%AC%EB%93%9C/id1195804784)
 
   - title: Work Experience (2019 ~ )
     layout: list
