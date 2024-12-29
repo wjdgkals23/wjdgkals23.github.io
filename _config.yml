@@ -90,15 +90,16 @@ content:
     layout: list
     content:
       - layout: top-middle
-        title: 보살핌 ([Bosalpim](https://www.bosalpim.co.kr/))
+        title: 케어파트너 (보살핌)
       - layout: left
         sub_title: Full Stack Engineer
         caption: 2023.02 ~
         description: |
           - 요양보호사, 요양기관 모집을 위한 고객유입 퍼널(이벤트 컨텐츠, SEO, 크롤링서버)을 구축하여 서비스의 활성 유저수 성장에 크게 기여했습니다.
           - 알림톡, 앱 및 앱푸쉬를 설계하여 요양보호사, 요양기관의 재진입 퍼널을 구축했고, 유저의 리텐션 성장에 크게 기여했습니다.
+          - 신규 비즈니스 비급여 돌봄 초기 서비스를 론칭 및 운영하였습니다.
       - layout: top-middle
-        title: 뱅크샐러드 (Banksalad)
+        title: 뱅크샐러드 (뱅크샐러드)
       - layout: left
         sub_title: User Experience Strategy Team
         caption: iOS Engineer 2021.07 ~ 2023.01
