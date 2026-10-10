@@ -161,11 +161,6 @@ content:
     layout: list
     content:
       - layout: left
-        title: 사이드 프로젝트
-        description: |
-          - 지도 기반 실시간 임장노트 [집줍](https://zipzoop.kr/) 서비스 구축 및 운영 (React/Next)
-          - 꽃집 이미지 기반 포트폴리오 [flo-blanc](https://flo-blanc.com) (Next 15 / React 19)
-      - layout: left
         title: 잇다 멘토링 활동
         description: |
           목표를 가지고 있는 엔지니어와 협업하는 것을 선호합니다. 목표에 대한 중요성을 공유하며 더 많은 분들이 목표를 가진 엔지니어가 되기를 희망하며 멘토링을 하고 있습니다.
