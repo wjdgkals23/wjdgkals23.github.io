@@ -3,3 +3,14 @@
 ---
 
 @import 'modern-resume-theme';
+
+// Tech stack tables: give the evidence column more room on wide screens.
+.content table th:nth-child(1), .content table td:nth-child(1) { width: 26%; padding-right: 0.5rem; }
+.content table th:nth-child(2), .content table td:nth-child(2) { width: 12%; padding-right: 0.5rem; }
+.content table th:nth-child(3), .content table td:nth-child(3) { width: 62%; }
+@media screen and (max-width: 767px) {
+  .content table th:nth-child(1), .content table td:nth-child(1) { width: 34%; }
+  .content table th:nth-child(2), .content table td:nth-child(2) { width: 14%; }
+  .content table th:nth-child(3), .content table td:nth-child(3) { width: 52%; }
+  .content table { font-size: 0.9em; }
+}
