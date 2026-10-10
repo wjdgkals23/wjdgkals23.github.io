@@ -80,7 +80,7 @@ content:
           | A/B 실험 운영 · 데이터 계측 | **4** (플랫폼 설계는 3) | 실험 추가 → 측정 → 정리 사이클 수십 회, 노출 로깅 게이팅, Mixpanel 이벤트·UTM 설계, 실험 플랫폼 bulk lookup/할당 API 확장 |
           | Ruby on Rails / Jets 배치·알림 백엔드 | **4** (배치·알림 도메인) | Lambda(Jets) → Rails 7.1 + ECS Fargate 이관 단독 수행, ActiveJob/SQS 어댑터 교체, SQS poller 에러 핸들러, cron 55개 체계, RuboCop/CI 도입 |
           | 앱 WebView 하이브리드 브릿지 | **3+** | 앱 ↔ 웹 브릿지 패키지, 화면 방향 제어, 푸시 딥링크 진입, 세션 레코딩 중복 방지, Kotlin 앱 전환 대응 |
-          | AWS (ECS Fargate · Lambda · SQS · EventBridge · SSM) · CI/CD | **3** | ECS 3런타임 taskdef, 배포 파이프라인, 비용·스케일링 정책, AWS/GCP/Play 계정 오너. IaC(Terraform/CDK)는 미경험 |
+          | AWS (ECS Fargate · Lambda · SQS · EventBridge · SSM) · CI/CD | **3** | ECS 3런타임 taskdef, 배포 파이프라인, 비용·스케일링 정책 |
 
           그 외 실무 수준으로 다루는 것: NestJS/Prisma, PostgreSQL, Android(Kotlin/Compose), Playwright/Jest, Redash/Mixpanel, Claude Code 기반 개발 워크플로. 이전 경력: iOS(Swift) 4년.
 
