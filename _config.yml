@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: HA MIN JEONG (정하민)
-title: Software Engineer
+title: Product Engineer (Full Stack)
 email: solverjhm@gmail.com
 phone: 010-9465-9404
 # email_title: Email (Email title override)
@@ -31,74 +31,90 @@ about_profile_image:
 about_content: |
   안녕하세요. Product Engineer 정하민입니다.
 
-  엔지니어링은 저에게 다양한 사람들과 함께 문제해결의 기회를 준 고마운 도구입니다. 
+  엔지니어링은 저에게 다양한 사람들과 함께 문제를 해결할 기회를 준 고마운 도구입니다.
+  iOS 엔지니어로 시작해(2019 ~ 2023, 페이북·뱅크샐러드) 2023년부터는 보살핌에서 풀스택으로 전환했고, 요양보호사 구인·구직 플랫폼(케어파트너)과 교육 서비스(케어아카데미)의 0 → 1에 기여하였습니다.
+  2025년 하반기부터는 테크 챕터 운영(분기 기술 과제, 인프라·비용·계정 오너십, 신규 엔지니어 온보딩)과 팀의 AI 개발 환경 구축을 맡고 있습니다.
 
-  엔지니어링을 시작으로 다양한 분들과 문제 해결의 경험을 쌓아가고 있습니다.
+  제가 만들고 싶은 소프트웨어는 "현재의 비즈니스와 조직 구성 상황에 맞게 유연하게 변할 수 있는, 문제 해결에 걸림돌이 되지 않는 소프트웨어"입니다. 이를 위해 어렵지만 알아야 하는 책을 이해할 때까지 반복해서 읽고 직접 적용해 보는 것을 실천합니다.
 
-  문제 해결 역량을 키우기 위해서는 다양한 경험과 도구들이 필요로 합니다.
-
-  현재는 모바일 엔지니어링에 치중되어 있지만, 5년 안에는 어떠한 문제도 풀 수 있는 엔지니어가 되는 것을 목표로 하고 있습니다.
-
-  (2022.11)
-
-
-  팀원들과 필요한 것을 학습하고 적용하며 꽤 많은 문제에 기여할 수 있는 엔지니어로 성장했다고 생각합니다.
-
-  앞으로의 목적은 "현재의 비즈니스와 조직 구성 상황에 맞게끔 유연하게 변할 수 있는 문제해결에 걸림돌이 되지 않는 소프트웨어를 만드는 것입니다." 
-
-  이것을 잘하기 위해 어렵지만 알아가야 하는 책을 이해할 때까지 반복해서 읽는 것을 실천하고 있으며 저에게 더 다양한 경험을 제공할 수 있는 문화를 가진 팀을 찾고 있습니다.
-
-  (2024.12.29)
 
 content:
-  - title: About Me # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: About Me
+    layout: list
     content:
       - layout: left
-        title: 개인 성향
+        title: 업무 방식
         description: |
-          - 필요한 학습을 습관화하여 몸에 익혀진 것들이 결과물에 기여하는 상황에 가장 큰 만족을 느낍니다.
-          - 실패에 개의치 않으며, 다음을 생각합니다.
-          - 업무에 대한 피드백 주기가 짧은 것을 선호합니다.
-          - 잘못 이해한 채로 업무하는 것을 극도로 싫어하며, 이를 방지하기 위해 목표 관리 도구를 적극적으로 활용합니다.
-          - 지나치게 몰입된 상태거나 개발 자체가 재밌는 상황에서는 무리한 일정산정을 하는 경향이 있습니다. 이를 방지코자 25분 업무와 5분 휴식 규칙을 사용합니다.
-          - 논의가 길어질 때, 집중력이 떨어져 30분 논의, 5분 휴식 사이클을 선호합니다.
-          - 재택보다 오피스에서 협업하며 일하는 것을 선호합니다.
+          - **결정은 글로, 수치와 함께 공유합니다.** 서버 스케일링 정책, 비용 절감, 발송 인프라 설계처럼 팀에 영향을 주는 변경은 as-is/to-be와 측정값을 적어 공지한 뒤 실행합니다.
+          - **실험은 가설·지표·롤백 조건을 먼저 정하고, Lesson Learned로 닫습니다.** 2년간 수십 건의 실험을 추가 → 측정 → 정리(cut)까지 직접 수행했고, 결과가 나쁘면 즉시 롤백하고 다음 가설을 붙입니다.
+          - **조직 단계에 맞는 검증 수준을 선택합니다.** 0 → 1 단계에서는 끝없는 시도가 필요해 테스트 커버리지보다 실험 속도를 우선했습니다. 살아남은 코드가 생기고 비즈니스가 확장 국면에 들어서자, 지켜야 할 최소한의 핵심 Path(결제·자격증 발급·회원가입 등)에 Playwright E2E 하네스 + CI, 핵심 로직 단위 테스트, 배치 레포의 lint/CI·PR 자동 리뷰를 구성했습니다.
+      - layout: left
+        title: 강점
+        description: |
+          - **End-to-end 실행력** — 맞춤 일자리 추천, 비용 대시보드, 설문 플랫폼, 공공기관 일자리 알림(크롤링 → 지오코딩 → 알림톡)처럼 프론트·백엔드·배치 3개 레포를 동시에 바꾸는 작업을 혼자 설계·구현·계측했습니다. 최근 2년간 프론트(Next.js 모노레포)와 백엔드(NestJS) 메인 레포 커밋의 약 30%, 배치/알림 레포 커밋의 약 38%를 작성했습니다.
+          - **가설 검증에 필요한 인프라를 직접 설계합니다** — 실험이 돌아가려면 메시지가 나가고 결과가 측정되어야 하므로, 알림톡/친구톡/브랜드메시지/앱푸시 발송 인프라(S3 → 배치 분할 → SQS 발송, 발송 결과 모니터링, 실험군별 템플릿·UTM 로깅, 개인화 푸시 빌더)를 설계·운영했습니다. 실험 규모가 커지자 Lambda(Jets) → Rails/ECS Fargate로 이관(2주, cron 핸들러 55개)해 운영 가능한 형태로 만들었습니다.
+          - **지표 기반 운영 판단** — 서버 ScaleUp 정책을 응답시간 임계치에서 지표 기반 판단으로 재설계하고, Vercel 이미지 전송량을 102GB → 39GB로 줄였으며, AWS/GCP/Vercel 비용을 모아 가입자 수와 함께 보는 전사 비용 대시보드를 구축해 "회사 리스크 하나를 줄였다"는 평가를 받았습니다.
+      - layout: left
+        title: 보완점과 취한 행동
+        description: |
+          - **의사소통 정확도** — 구어체·은유 표현 때문에 맥락이 없는 사람이 정보를 판단하기 어렵다는 피드백을 받았습니다. → 장애·변경 공유를 고정 포맷(현상/원인/해결/백로그, as-is/to-be/측정값)으로 쓰고, 2026년부터 PR 본문을 배경/변경/검증/후속 구조로 작성하며, 코드 리뷰 결과는 Linear 티켓으로 남깁니다.
       - layout: left
         title: 좋아하는 팀 문화
         description: |
-          - 동시에 여러개의 목표를 산발적으로 진행하기 보다, 하나하나의 목표를 집중하여 함께 해결하는 팀이 결국 승리한다고 생각합니다.
-          - 큰 목표의 90%를 달성했을 때 충분한 칭찬과 함께 어떻게 하면 10%를 채울 수 있었을까를 고민하는 팀을 선호합니다.
-          - 팀원 개인이 혼자 너무 긴 고민의 시간을 가지는 것보다 함께 빠르게 논의하고 액션하는 것을 선호합니다.
-          - 계속해서 도전하는 환경을 만들어가기 위해 팀원 또는 팀의 실수, 실패에 대해 존중하며 함께 학습하는 팀을 선호합니다.
-          - 팀원들 간의 교류를 통해 팀원들이 서로의 성향을 인지하고 존중하는 것을 선호합니다.
-      - layout: left
-        title: Engineering
-        description: |
-          소프트웨어 엔지니어는 지속적인 학습과 동료 엔지니어와의 협업을 토대로 소수의 인원만으로도 조직의 상황에 맞게 서비스가 변할 수 있도록 구성해야합니다.
-          이를 위해 어렵지만 알아가야하는 책을 이해할 때까지 반복해서 읽고 직접 경험해보는 것을 실천합니다.
+          - 여러 목표를 산발적으로 진행하기보다 하나의 목표에 집중해 함께 해결하는 팀이 결국 승리한다고 생각합니다.
+          - 큰 목표의 90%를 달성했을 때 충분히 칭찬하고, 나머지 10%를 어떻게 채울지 함께 고민하는 팀을 선호합니다.
+          - 혼자 오래 고민하기보다 빠르게 논의하고 액션하는 것, 실수와 실패를 존중하며 함께 학습하는 것을 선호합니다.
 
-          - React/Next
-            - 요양보호사 구인/구직 플랫폼 [케어파트너](https://carepartner.kr) 서비스 구축 및 운영
-            - 지도 기반 실시간 임장노트 [집줍](https://zipzoop.kr/) 서비스 구축 및 운영
-            - [꽃집 이미지 기반 포트폴리오](https://flo-blanc.com) 서비스 구축 중 (Next 15, React 19 활용 / 다국어 지원 예정)
-          - Flutter [케어파트너](https://play.google.com/store/apps/details?id=com.bosalpim.carepartnerapp&hl=ko&pli=1)
-          - iOS [뱅크샐러드](https://apps.apple.com/kr/app/%EB%B1%85%ED%81%AC%EC%83%90%EB%9F%AC%EB%93%9C/id1195804784)
+  - title: Tech Stack
+    layout: list
+    content:
+      - layout: left
+        title: 주력 영역과 숙련도
+        description: |
+          **1** 입문 · **2** 기본 · **3** 실무 독립 수행 · **4** 설계·리딩 가능 · **5** 전문가
+
+          | 영역 | 등급 | 근거 |
+          |---|---|---|
+          | Next.js / React / TypeScript | **4** | Turborepo 모노레포(앱 4개) 2년간 PR 700건+, react-query·zustand·디자인시스템 토큰, 364파일 횡단 리팩터, 웹뷰·미디어 플레이어·레이아웃 난이도 높은 구현 |
+          | 알림톡 · 푸시 · 브랜드메시지 발송 인프라 | **4** | 2년간 가장 지속된 영역. 템플릿 전환, 발송 결과 배치, whitelist 강제, cron 중복 실행 락, 개인화 빌더, 대량 발송 캐파 산정 |
+          | A/B 실험 운영 · 데이터 계측 | **4** (플랫폼 설계는 3) | 실험 추가 → 측정 → 정리 사이클 수십 회, 노출 로깅 게이팅, Mixpanel 이벤트·UTM 설계, 실험 플랫폼 bulk lookup/할당 API 확장 |
+          | Ruby on Rails / Jets 배치·알림 백엔드 | **4** (배치·알림 도메인) | Lambda(Jets) → Rails 7.1 + ECS Fargate 이관 단독 수행, ActiveJob/SQS 어댑터 교체, SQS poller 에러 핸들러, cron 55개 체계, RuboCop/CI 도입 |
+          | 앱 WebView 하이브리드 브릿지 | **3+** | 앱 ↔ 웹 브릿지 패키지, 화면 방향 제어, 푸시 딥링크 진입, 세션 레코딩 중복 방지, Kotlin 앱 전환 대응 |
+          | AWS (ECS Fargate · Lambda · SQS · EventBridge · SSM) · CI/CD | **3** | ECS 3런타임 taskdef, 배포 파이프라인, 비용·스케일링 정책 |
+
+          그 외 실무 수준으로 다루는 것: NestJS/Prisma, PostgreSQL, Android(Kotlin/Compose), Playwright/Jest, Redash/Mixpanel, Claude Code 기반 개발 워크플로. 이전 경력: iOS(Swift) 4년.
 
   - title: Work Experience (2019 ~ )
     layout: list
     content:
       - layout: top-middle
-        title: 케어파트너 (보살핌)
+        title: 보살핌 — 케어파트너 · 케어아카데미
       - layout: left
-        sub_title: Full Stack Engineer
+        sub_title: Product Engineer (Full Stack)
         caption: 2023.02 ~
         description: |
-          - 요양보호사, 요양기관 모집을 위한 고객유입 퍼널(이벤트 개발, SEO, 크롤링서버)을 구축하여 서비스의 활성 유저수 성장에 크게 기여했습니다.
-          - 알림톡, 앱 및 앱푸쉬를 설계하여 요양보호사, 요양기관의 재진입 퍼널을 구축했고, 유저의 리텐션 성장에 크게 기여했습니다.
-          - 신규 비즈니스 비급여 돌봄 초기 서비스를 론칭 및 운영하였습니다.
+          요양보호사 구인·구직 플랫폼 [케어파트너](https://carepartner.kr)와 요양보호사 교육 서비스 케어아카데미를 만듭니다.
+          Next.js 모노레포(프론트) · NestJS/Prisma(API) · Rails(배치/알림) · Kotlin(앱) · AWS/GCP/Vercel 전반을 담당하며, 2025년 하반기부터 테크 챕터 운영을 맡고 있습니다.
+
+          **2026 — 테크 챕터 운영 · 품질 자동화 · AI Native**
+          - 전사 비용 대시보드(AWS/GCP/Vercel 비용 수집 + 가입자 수 맥락) 구축, 서버 스케일링·DB/Redis 스펙·분석 DB 설계 등 인프라 비용 오너십
+          - Playwright E2E 하네스 + GitHub Actions(Vercel 배포 트리거 연동) 구축, SQL 인젝션 감사, 핵심 로직 단위 테스트 도입
+          - 배치/알림 백엔드를 Lambda(Jets) → Rails 7.1 + ECS Fargate(api/worker/cron)로 2주 내 이관, EventBridge 스케줄 55개 멱등 등록, RuboCop/CI/PR 자동 리뷰 정착
+          - 공공기관 일자리 알림 제품(크롤링 → 지오코딩 → PostGIS 반경 API → 알림톡), 맞춤 일자리 추천 온보딩, 설문 플랫폼을 프론트·백엔드·배치 전반에 걸쳐 구현
+          - 팀 AI 개발 환경: Claude Code 스킬 레포 구조 설계·정착(이후 5명이 13개 스킬 추가), SQL 생성·Redash 실행 스킬, Linear → 자동 PR, 프로젝트별 CLAUDE.md 체계, GitHub·배포 교육
+
+          **2025 — 앱 전환 · 케어아카데미 론칭 · 메시징 인프라**
+          - Flutter → Kotlin 앱 전환 초기 멤버(카카오 로그인, FCM, 네이티브 화면, 실험 플랫폼 클라이언트), 점진 배포 20→50→100%(크래시율 0%), 릴리즈 프로세스 정착
+          - 케어아카데미 론칭: 강의 영상 플레이어, 수강신청·Toss 결제 검증, 시험·자격증, NPS, 수강 리텐션 알림톡 실험
+          - 카카오 브랜드메시지 발송 인프라(S3 업로드 → 배치 분할 → SQS → 스케줄러, 발송 결과 모니터링, 전환률 분석) 구축
+          - 시니어 엔지니어 퇴사 후 AWS/GCP/Play Console 계정 인수, 테크 챕터 2026 과제 정의 및 분기 플래닝 반영
+
+          **2023 ~ 2024 — 성장 퍼널 · B2G 사업 · 백엔드 이관**
+          - 요양보호사·기관 유입 퍼널(이벤트, SEO, 워크넷 간편지원, 크롤링 서버 연동)과 재진입 퍼널(알림톡, 앱푸시) 구축으로 활성 유저·리텐션 성장에 기여
+          - B2G 노인일자리 취업지원사업 개발 리드: 취업확인서·근로계약서·주민번호 수취 플로우, 연도별 동의 갱신. 휴면 유저 친구톡 활성화(2,506명 발송 → 251명 활성화)
+          - 레거시 Rails API → NestJS/Prisma 이관(기관 정보, 공고 종료, 증빙 업로드), command/query 분리·트랜잭션 전달 패턴 도입
       - layout: top-middle
-        title: 뱅크샐러드 (뱅크샐러드)
+        title: 뱅크샐러드
       - layout: left
         sub_title: User Experience Strategy Team
         caption: iOS Engineer 2021.07 ~ 2023.01
@@ -109,10 +125,10 @@ content:
           - 팀 스프린트 관리, 회고 문화 구성
       - layout: left
         sub_title: iOS Foundation
-        caption: iOS Engineer 2021.04 ~ 2020.06
+        caption: iOS Engineer 2021.04 ~ 2021.06
         description: |
-          iOS Core 팀으로 제품 개발을 수행에 필수적인 iOS 업데이트 대응과 배포개선을 수행했습니다.
-          - iOS 14.5 보안 및 마케팅 대응설계
+          iOS Core 팀으로 제품 개발 수행에 필수적인 iOS 업데이트 대응과 배포 개선을 수행했습니다.
+          - iOS 14.5 보안 및 마케팅 대응 설계
           - [Jenkins Distribution Job 코드화 개선](https://jhmdevdiary.tistory.com/30)
       - layout: left
         sub_title: Data Instrumentation Team
@@ -120,7 +136,7 @@ content:
         description: |
           데이터를 기반으로 제품 개발을 수행하는 팀의 iOS Engineer로 활약하였습니다.
           - iOS 프로젝트 A/B Testing 환경 개편
-          - 테이터 기반 제품 개발수행
+          - 데이터 기반 제품 개발 수행
       - layout: left
         sub_title: iOS Foundation
         caption: iOS Engineer 2020.02 ~ 2020.12
@@ -137,7 +153,8 @@ content:
         sub_title: 결제 인증개발팀
         caption: iOS Engineer 2019.02 ~ 2020.01
         description: |
-          BC,KB 카드 결제인증 IOS APP인 PAYBOOC을 유지보수 하였으며, 신규 서비스를 추가하는 역할을 담당하였습니다.
+          BC, KB 카드 결제인증 iOS 앱 PAYBOOC을 유지보수하고 신규 서비스를 추가하는 역할을 담당하였습니다.
+
   - title: 기타활동
     layout: list
     content:
@@ -152,7 +169,7 @@ content:
         description: |
           KCI 논문 (2018)
           - [딥 러닝 기반 이미지 자동 분류 및 랭킹 시스템을 이용한 사용자 편의중심의 유실물 등록 및 조회 관리 시스템](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002401814)
-          - [효율적인 사물 이미지 분류를 위한계층적 이미지 분류 체계의 설계 및 구현](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002393794)
+          - [효율적인 사물 이미지 분류를 위한 계층적 이미지 분류 체계의 설계 및 구현](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002393794)
 
 # Footer
 footer_show_references: true
